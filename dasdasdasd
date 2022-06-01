@@ -1,0 +1,71 @@
+[33mcommit 793354d6f0b5daacd25af1b5730d473d926c4883[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Wed Jun 1 23:03:55 2022 +0700
+
+    remove chromium
+
+[33mcommit 85f4a1d25d0139106c73b0fba2e344b82ca47b47[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Wed Jun 1 01:17:07 2022 +0700
+
+    major fix
+
+[33mcommit e0d8360a00f3e06a5a7e078008a2758c30ba09a6[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Wed Jun 1 00:51:57 2022 +0700
+
+    fix null
+
+[33mcommit 275bcd222d99a4969bb3fff61421074b75280248[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Wed Jun 1 00:41:05 2022 +0700
+
+    fix view port
+
+[33mcommit 2d536f269f85787c7936337824b0cf8ddf903046[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Tue May 31 18:32:17 2022 +0700
+
+    set viewport fixed for puppeteer
+
+[33mcommit 4c96275a6c8ac229ce4680d32b852db998310c1d[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Tue May 31 18:25:56 2022 +0700
+
+    fix null variable
+
+[33mcommit cf314fc3de059cd44e39d3fe5a521af8cda36a45[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Tue May 31 18:19:38 2022 +0700
+
+    node removed
+
+[33mcommit 844779e6f0a38842b783d241ce2db73dbac971c5[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Tue May 31 18:04:34 2022 +0700
+
+    cache cleared
+
+[33mcommit a34897961f54cdd4d87e3cd3ea3d93efe46d6a67[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Tue May 31 17:53:55 2022 +0700
+
+    purge cache
+
+[33mcommit 45cd250dd13c95c0e50dde8de89c1a2a4d898b4a[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Tue May 31 17:45:50 2022 +0700
+
+    add process.env.PORT
+
+[33mcommit cda95de04e6e7f6c610d059108071b943e950452[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Tue May 31 17:39:15 2022 +0700
+
+    minor fix, start script added
+
+[33mcommit 1a574a8ae39b2f147063ec5af1e838cc07459eaf[m
+Author: Minh Tri <46084113+ume16@users.noreply.github.com>
+Date:   Tue May 31 17:25:13 2022 +0700
+
+    first deploy

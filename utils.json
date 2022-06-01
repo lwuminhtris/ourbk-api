@@ -1,0 +1,10 @@
+{
+    "login_url": "https://sso.hcmut.edu.vn/cas/login",
+    "username_sel": "#username",
+    "password_sel": "#password",
+    "login_sel": "#fm1 > div.row.btn-row > input.btn-submit",
+    "mybk_url": "https://mybk.hcmut.edu.vn/stinfo/",
+    "schedule_table": "https://mybk.hcmut.edu.vn/stinfo/lichthi/ajax_lichhoc",
+    "exam_table": "https://mybk.hcmut.edu.vn/stinfo/lichthi/ajax_lichthi",
+    "grade": "https://mybk.hcmut.edu.vn/stinfo/grade/ajax_grade"
+}
